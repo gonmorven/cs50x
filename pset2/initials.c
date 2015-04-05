@@ -3,7 +3,7 @@
  *
  * pset2 2015 cs50x
  *
- * Gonçalo MorVen
+ * Gon MorVen
  *
  * Prompts the user for his/her name
  * and prints the name's initials in uppercase.
