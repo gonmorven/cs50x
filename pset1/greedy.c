@@ -3,7 +3,7 @@
  *
  * pset1 2015 cs50x
  *
- * Gon MorVen
+ * By: Gon MorVen
  *
  * Asks user how much change is owed and prints
  * the minimum number of coins needed to make the change.
