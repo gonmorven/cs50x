@@ -3,7 +3,7 @@
  *
  * pset1 2015 cs50x
  *
- * Gon MorVen
+ * By: Gon MorVen
  *
  * Recreates the half-pyramid from the game Super Mario Brothers.
  */
