@@ -3,7 +3,7 @@
  *
  * pset2 2015 cs50x
  *
- * Gon MorVen
+ * By: Gon MorVen
  *
  * Encrypts a message with Vigenere Cipher.
  * The user provides the encryption keyword and a message.
